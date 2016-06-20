@@ -1,0 +1,8 @@
+.DS_Store
+.env
+/_build
+/cover
+/deps
+erl_crash.dump
+*.ez
+/test/data
